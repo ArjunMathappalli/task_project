@@ -1,16 +1,8 @@
 # task_project
 
-A new Flutter project.
+Key Features:
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+API Integration: Utilizes Dio as the HTTP client for seamless communication with the backend API.
+MVC Architecture: Follows the Model-View-Controller architecture for clear separation of concerns, promoting maintainability and scalability.
+User-friendly Interface: Offers an intuitive user interface for enhanced user experience.
+Flutter Compatibility: Compatible with Flutter framework, ensuring cross-platform compatibility for Android and iOS devices.
